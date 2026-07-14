@@ -1,41 +1,41 @@
 # **A. Watermelon**
 
-time limit per test: 1 second
+time limit per test: 1 second\
 memory limit per test: 64 megabytes
 
 ### **Description**
 
-One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
+One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed $w$ kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
 
 Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.
 
 ### **Input**
 
-The first (and the only) input line contains integer number $w\ (1 \leq w \leq 100)$ the weight of the watermelons bought by boys.
+The first (and the only) input line contains integer number $w\ (1 \leq w \leq 100)$ — the weight of the watermelons bought by boys.
 
 ### **Output**
 
 Print $YES$, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and $NO$ in the opposite case.
 
-### **Examples**
+### **Examples 1**
 
 ###### **Input**
 
-```number
+```
 8
 ```
 
 ###### **Output**
 
-```text
+```
 YES
 ```
 
 ---
 
-### **Tutorial** (en)
+### **Editorial** (en)
 
-by SirPseudocode (Wed, 08th July 2026)
+_by SirPseudocode (Last Checked/Updated on 08th July 2026)_
 
 Focus on the second paragraph of description, especially on "... they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal." The objective is dividing the watermelon weight into two parts that is each of them must be an even number and they not necessarily have to be equal. In other words, the weight of watermelon must be even and more than 2. For examples, 2 kilos can't be divided into 2 parts that both have an even weights in kilos. On the other hand, 6 kilos, can be divided into 2 kilos and 4 kilos which means it can be divided into two parts that each of them is even and not equal.
 
@@ -94,3 +94,16 @@ int main(){
 	return 0;
 }
 ```
+
+---
+
+### **Additional Links:**
+
+[![Problem Link](https://img.shields.io/badge/Codeforces-Problem%20Link-green?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset/problem/4/A)
+[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](<https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/CodeForces/4.%20Codeforces%20Beta%20Round%204%20(Div.%202%20Only)/4A%20-%20Watermelon>)
+
+---
+
+<p align="center">
+  <small><i>Disclaimer: The problem statement, constraints, and test cases belong to the respective problem setters and <a href="https://codeforces.com" target"_blank">Codeforces</a>. All rights reserved.</i></small>
+</p>
