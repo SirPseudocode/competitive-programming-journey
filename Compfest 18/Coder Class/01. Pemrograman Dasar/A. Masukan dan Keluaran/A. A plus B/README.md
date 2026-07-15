@@ -1,6 +1,6 @@
 # **A. A plus B**
 
-time limit per test: 0.5 second\
+time limit per test: 1 second\
 memory limit per test: 64 megabytes
 
 ### **Deskripsi**
@@ -44,6 +44,9 @@ using namespace std;
 #define ll long long
 
 int main(){
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+
 	ll a, b;
 	cin >> a >> b;
 
@@ -56,7 +59,7 @@ int main(){
 
 ### **Additional Links:**
 
-[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/Pemrograman%20Dasar/A.%20Masukan%20dan%20Keluaran/A.%20A%20plus%20B)
+[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/01.%20Pemrograman%20Dasar/A.%20Masukan%20dan%20Keluaran/A.%20A%20plus%20B)
 
 ---
 
