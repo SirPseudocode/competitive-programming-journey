@@ -100,10 +100,10 @@ int main(){
 ### **Additional Links:**
 
 [![Problem Link](https://img.shields.io/badge/Codeforces-Problem%20Link-green?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset/problem/4/A)
-[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](<https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/CodeForces/4.%20Codeforces%20Beta%20Round%204%20(Div.%202%20Only)/4A%20-%20Watermelon>)
+[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](<https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Codeforces/4.%20Codeforces%20Beta%20Round%204%20(Div.%202%20Only)/4A%20-%20Watermelon>)
 
 ---
 
 <p align="center">
-  <small><i>Disclaimer: The problem statement, constraints, and test cases belong to the respective problem setters and <a href="https://codeforces.com" target"_blank">Codeforces</a>. All rights reserved.</i></small>
+  <small><i>The problem statement, constraints, and test cases are from <a href="https://codeforces.com" target"_blank">Codeforces</a>.</i></small>
 </p>

@@ -32,5 +32,5 @@ Compfest 8
 ---
 
 <p align="center">
-  <small><i>Disclaimer: The problem statement, constraints, and test cases belong to the respective problem setters and <a href="https://compfest.id" target"_blank">Compfest</a>. All rights reserved.</i></small>
+  <small><i>The problem statement, constraints, and test cases are from Coder Class of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
 </p>
