@@ -32,8 +32,6 @@ In the first line print $YES\text{,}$ and in the second line print $d$ numbers (
 NO
 ```
 
----
-
 ### **Examples 2**
 
 ###### **Input**
