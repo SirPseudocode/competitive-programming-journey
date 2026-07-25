@@ -42,5 +42,5 @@ Satu baris berisi sebuah bilangan nyata, yaitu rata-rata enam orang tersebut. Ja
 ---
 
 <p align="center">
-  <small><i>The problem statement, constraints, and test cases are from Coder Class of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
+  <small><i>The problem statement, constraints, and test cases are from Coderclass of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
 </p>
