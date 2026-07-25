@@ -31,7 +31,7 @@ Satu baris berisi sebuah bilangan bulat, hasil penjumlahan A dan B.
 
 ### **Batasan**
 
-- $1\le\text{A,B}\le 4\times 10^{18}$
+- $1\le A,B\le 4\times 10^{18}$
 
 ---
 

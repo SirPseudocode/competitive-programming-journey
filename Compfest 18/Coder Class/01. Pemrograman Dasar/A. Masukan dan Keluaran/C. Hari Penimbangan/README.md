@@ -31,7 +31,7 @@ Satu baris berisi sebuah bilangan nyata, yaitu rata-rata enam orang tersebut. Ja
 
 ### **Batasan**
 
-- $5\le\text{A, B, C, D, E, F}\le 100$
+- $5\le A, B, C, D, E, F\le 100$
 
 ---
 

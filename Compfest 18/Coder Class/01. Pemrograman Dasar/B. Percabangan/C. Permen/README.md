@@ -45,7 +45,7 @@ Kecewa :(
 
 ### **Batasan**
 
-- $1\le\text{N, K}\le 1.000$
+- $1\le N, K\le 1.000$
 
 ---
 
