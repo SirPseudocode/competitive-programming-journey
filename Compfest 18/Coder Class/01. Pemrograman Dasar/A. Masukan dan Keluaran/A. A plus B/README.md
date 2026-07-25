@@ -29,6 +29,10 @@ Satu baris berisi sebuah bilangan bulat, hasil penjumlahan A dan B.
 24
 ```
 
+### **Batasan**
+
+- $1\le\text{A,B}\le 4\times 10^{18}$
+
 ---
 
 ### **Editorial** (id)

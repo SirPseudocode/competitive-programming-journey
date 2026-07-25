@@ -43,6 +43,10 @@ Hore ^_^
 Kecewa :(
 ```
 
+### **Batasan**
+
+- $1\le\text{N, K}\le 1000$
+
 ---
 
 ### **Additional Links:**

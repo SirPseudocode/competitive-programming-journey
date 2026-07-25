@@ -51,6 +51,12 @@ Satu baris berisi sebuah bilangan bulat, hasil "A operator B".
 1000000
 ```
 
+### **Batasan**
+
+- $1\le\text{A, B}\le 1000$
+- Operator dijamin salah satu dari '+', '-', '\*', '/', atau '%'.
+- Jika operator adalah '/', dijamin A habis dibagi B.
+
 ---
 
 ### **Additional Links:**
