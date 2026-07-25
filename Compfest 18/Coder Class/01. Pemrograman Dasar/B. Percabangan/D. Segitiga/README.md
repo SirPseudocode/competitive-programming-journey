@@ -45,7 +45,7 @@ bukan segitiga
 
 ### **Batasan**
 
-- $1\le\text{A, B, C}\le 1000$
+- $1\le\text{A, B, C}\le 1.000$
 
 ---
 

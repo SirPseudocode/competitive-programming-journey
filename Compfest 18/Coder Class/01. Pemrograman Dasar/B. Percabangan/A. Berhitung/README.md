@@ -53,7 +53,7 @@ Satu baris berisi sebuah bilangan bulat, hasil "A operator B".
 
 ### **Batasan**
 
-- $1\le\text{A, B}\le 1000$
+- $1\le\text{A, B}\le 1.000$
 - Operator dijamin salah satu dari '+', '-', '\*', '/', atau '%'.
 - Jika operator adalah '/', dijamin A habis dibagi B.
 

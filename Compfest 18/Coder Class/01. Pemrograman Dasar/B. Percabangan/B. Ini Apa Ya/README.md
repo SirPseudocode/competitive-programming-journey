@@ -80,7 +80,7 @@ bilangan bulat negatif
 
 ### **Batasan**
 
-- $1\le\text{|S|}\le 1000$
+- $1\le\text{|S|}\le 1.000$
 
 ---
 
