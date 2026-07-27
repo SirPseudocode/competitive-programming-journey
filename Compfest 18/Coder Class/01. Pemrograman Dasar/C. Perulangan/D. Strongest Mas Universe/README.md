@@ -9,7 +9,8 @@ Iri melihat lomba Miss Universe, sekelompok pemuda berinisiatif mengadakan lomba
 
 ### **Format Masukan**
 
-Baris pertama berisi sebuah bilangan bulat N, banyak peserta Mas Universe.\
+Baris pertama berisi sebuah bilangan bulat N, banyak peserta Mas Universe.
+
 Baris kedua berisi N buah bilangan bulat Pi, tingkat kekuatan tiap peserta.
 
 ### **Format Keluaran**
