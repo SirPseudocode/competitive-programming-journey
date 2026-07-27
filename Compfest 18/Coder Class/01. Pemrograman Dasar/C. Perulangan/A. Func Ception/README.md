@@ -55,5 +55,5 @@ Beberapa baris yang menyatakan isi kertas Pak Chanek.
 ---
 
 <p align="center">
-  <small><i>The problem statement, constraints, and test cases are from Coderclass of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
+  <small><i>The problem statement, constraints, and test cases are from a Coderclass of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
 </p>

@@ -44,5 +44,5 @@ Satu baris berisi sebuah bilangan bulat yang menyatakan banyaknya langkah yang d
 ---
 
 <p align="center">
-  <small><i>The problem statement, constraints, and test cases are from Coderclass of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
+  <small><i>The problem statement, constraints, and test cases are from a Coderclass of CPC <a href="https://compfest.id" target"_blank">Compfest</a> 18.</i></small>
 </p>
