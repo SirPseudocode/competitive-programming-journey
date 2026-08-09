@@ -8,10 +8,18 @@ int main(){
     short n;
     cin >> n;
 
-    short arr[n];
-    for(short i = 0 ; i < n ; i++) cin >> arr[i];
+    vector<short> arr;
 
-    for(short i = n - 1 ; i >= 0 ; i--) cout << arr[i] << ' ';
+    while(n--){
+        short temp;
+        cin >> temp;
 
+        arr.push_back(temp);
+    }
+
+    reverse(arr.begin(), arr.end());
+
+    for(short res : arr) cout << res << ' ';
+    
     return 0;
 }
