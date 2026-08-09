@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int query_chanek(int l, int r){
+int chanek(int l, int r){
     cout << "Chanek " << l << ' ' << r << endl;
 
     int temp;
@@ -10,7 +10,7 @@ int query_chanek(int l, int r){
     return temp;
 }
 
-int query_dengklek(int l, int r){
+int dengklek(int l, int r){
     cout << "Dengklek " << l << ' ' << r << endl;
 
     int temp;
@@ -19,38 +19,28 @@ int query_dengklek(int l, int r){
     return temp;
 }
 
-int binser_minVal(int r){
-    int l = 1;
-    int base = query_chanek(1, r);
+int min_val(int l, int r){
+    if(l == r) return chanek(l, r) - 1;
 
-    while(l <= r){
-        if(l == r) return query_chanek(l, l) - 1;
+    int mid = (l + r) /2;
 
-        int mid = l + (r - l) / 2;
-        int temp = query_chanek(1, mid);
+    int left = chanek(l, mid);
+    int right = chanek(mid + 1, r);
 
-        if(temp == base) r = mid;
-        else l = mid + 1;
-    }
-
-    return query_chanek(l, l) - 1;
+    if(left < right) return min_val(l, mid);
+    else return min_val(mid + 1, r);
 }
 
-int binser_maxVal(int r){
-    int l = 1;
-    int base = query_dengklek(1, r);
+int max_val(int l, int r){
+    if(l == r) return dengklek(l, r) + 1;
 
-    while(l <= r){
-        if(l == r) return query_dengklek(l, l) + 1;
+    int mid = (l + r) /2;
 
-        int mid = l + (r - l) / 2;
-        int temp = query_dengklek(1, mid);
+    int left = dengklek(l, mid);
+    int right = dengklek(mid + 1, r);
 
-        if(temp == base) r = mid;
-        else l = mid + 1;
-    }
-
-    return query_dengklek(l, l) + 1;
+    if(left > right) return max_val(l, mid);
+    else return max_val(mid + 1, r);
 }
 
 int main(){
@@ -60,9 +50,7 @@ int main(){
     int n;
     cin >> n;
 
-    int min = binser_minVal(n);
-    int max = binser_maxVal(n);
-
+    int min = min_val(1, n), max = max_val(1, n);
     cout << "Jawab " << (max - min + 1) - n << endl;
 
     return 0;
