@@ -11,7 +11,7 @@ Anda baru saja menuliskan seluruh bilangan bulat dari 1 sampai N, masing-masing 
 
 Baris pertama berisi 2 buah bilangan bulat N dan K, masing-masing menyatakan banyaknya kertas awal dan banyaknya kertas yang anda temukan.
 
-Baris kedua berisi K buah bilangan bulat Ai, kertas-kertas yang anda temukan.
+Baris kedua berisi K buah bilangan bulat $A_{i}$, kertas-kertas yang anda temukan.
 
 ### **Format Keluaran**
 
