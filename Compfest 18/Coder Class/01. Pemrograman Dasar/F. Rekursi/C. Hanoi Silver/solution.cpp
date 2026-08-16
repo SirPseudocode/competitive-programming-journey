@@ -21,7 +21,7 @@ void hanoi(short cengkram, short rod_start, short rod_target){
 //         hanoi(isi - 1, sisa, target, asal);
 //     }
 // }
-// >>>>>>> END ALTERNATIVES SOLUTIONS
+// >>>>>>> END ALTERNATIVE SOLUTIONS
 
 
 int main(){
