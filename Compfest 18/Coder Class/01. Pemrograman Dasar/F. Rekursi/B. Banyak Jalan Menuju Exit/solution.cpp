@@ -2,6 +2,7 @@
 #define ll long long
 using namespace std;
 
+// <<<<<<< ACTIVE SOLUTION (VERSION 1)
 ll shortcutFaktorial(int n, int m){
     if(n <= 1 || n == m) return 1;
 
@@ -24,6 +25,20 @@ void solve(int n, int m){
 
     cout << numerator / denumerator << endl;
 }
+// ======= VERSION 2
+// void solve(int n, int m) {
+//     int total_steps = n + m;
+//   
+//     int smallest = min(n, m); 
+// 
+//     long long ans = 1;
+//     for (int i = 1; i <= smallest; ++i) {
+//         ans = ans * (total_steps - i + 1) / i;
+//     }
+// 
+//     cout << ans << "\n";
+// }
+// >>>>>>>>> END ALTERNATIVE SOLUTIONS
 
 int main(){
     ios_base::sync_with_stdio(0);
