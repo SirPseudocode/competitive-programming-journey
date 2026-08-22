@@ -47,7 +47,7 @@ chanek
 
 ### **Additional Links:**
 
-[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/02.Pemrograman%20Kompetitif%20Dasar/A.%20Pemrograman%20Dasar/A.%20Antri%20Sembako)
+[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/02.Pemrograman%20Kompetitif%20Dasar/A.%20Struktur%20Data/A.%20Antri%20Sembako)
 
 ---
 
