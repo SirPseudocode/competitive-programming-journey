@@ -46,7 +46,7 @@ N baris yang baris ke i-nya berisi sebuah bilangan yang merupakan median dari da
 
 ### **Additional Links:**
 
-[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/02.Pemrograman%20Kompetitif%20Dasar/A.Struktur%20Data/B.%20Menghitung%20Median)
+[![Download ZIP](<https://img.shields.io/badge/Download-Repository%20(ZIP)-blue?style=for-the-badge&logo=github>)](https://downgit.github.io/#/home?url=https://github.com/SirPseudocode/competitive-programming-journey/tree/main/Compfest%2018/Coder%20Class/02.Pemrograman%20Kompetitif%20Dasar/A.%20Struktur%20Data/B.%20Menghitung%20Median)
 
 ---
 
