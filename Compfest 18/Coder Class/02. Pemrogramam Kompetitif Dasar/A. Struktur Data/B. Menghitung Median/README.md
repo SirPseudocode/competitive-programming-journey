@@ -10,7 +10,7 @@ Pak Chanek memiliki bakat matematika yang telah terlihat sejak SD. Pernah suatu 
 ### **Format Masukan**
 
 Baris pertama berisi sebuah bilangan N, banyak data yang akan diberikan.
-N baris berikutnya berisi sebuah bilangan bulat a_i yang diberikan guru Pak Chanek pada urutan ke-i.
+N baris berikutnya berisi sebuah bilangan bulat $a_{i}$ yang diberikan guru Pak Chanek pada urutan ke-i.
 
 ### **Format Keluaran**
 
